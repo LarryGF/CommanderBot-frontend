@@ -1,4 +1,4 @@
-# viyda-dayron
+# viyda-frontend
 
 > Nuxt.js + Vuetify.js project
 
