@@ -1,4 +1,4 @@
-# viyda-frontend
+# vydia-frontend
 
 > Nuxt.js + Vuetify.js project
 
